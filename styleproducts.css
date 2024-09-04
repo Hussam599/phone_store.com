@@ -1,0 +1,25 @@
+.block{
+    border: solid rgb(209, 196, 233);
+    height: 270px;
+    width: 200px;
+    border-radius: 30px;
+}
+img{
+    width: 150px;
+    height: 100px;
+    margin-top: 70px;
+    margin-left: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: arial;
+
+}
+.items{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
